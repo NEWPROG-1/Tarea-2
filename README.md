@@ -10,7 +10,7 @@
 
 # Segundo ejercicio vagon.py
 
-#resultados del segundo ejercicio
+# resultados del segundo ejercicio
 
 
 ![Captura de pantalla 2025-04-28 022107](https://github.com/user-attachments/assets/80ec249f-d939-4073-b26e-430fb328265a)
